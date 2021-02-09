@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+My Name is Michał Wiśniewski. I am 32 years old, living in Poland with my beautiful wife and Portos. Portos is our dog, cream-colored Golden Retriever who makes our lives happier. We both love to travel and visit new places during every vacation. I am a big fan of travelling by plane, sightseeing, Neapolitan pizza and single malt whisky. One of my life goals is to visit Seven Wonders of World.
 
 <!--
 **cerassus/cerassus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
