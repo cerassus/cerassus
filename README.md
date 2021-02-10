@@ -6,6 +6,7 @@ My Name is Michał Wiśniewski. I am 32 years old, living in Poland with my beau
 
 JAVASCRIPT, TYPESCRIPT, REACT, REDUX, GATSBY, NEXT.JS, STYLED COMPONENTS, BOOTSTRAP, MATERIAL UI, WEBPACK, NPM, GIT, REST API, EXPRESS, MONGODB, HTML, CSS, SASS
 
+<!--
 ### Workstation
 
 - Dream Machines G1660Ti-15PL272 
@@ -13,3 +14,4 @@ JAVASCRIPT, TYPESCRIPT, REACT, REDUX, GATSBY, NEXT.JS, STYLED COMPONENTS, BOOTST
 - A4 Tech AL90
 - A4 Tech KV-300H
 - Dream Machines DM Pad XXL
+-->
